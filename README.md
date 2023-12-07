@@ -1,0 +1,2 @@
+# AttackNull
+DDoS Attack Script
